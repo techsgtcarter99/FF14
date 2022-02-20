@@ -1,0 +1,10 @@
+D:\FF14\obj\Debug\net6.0-windows\FF14.csproj.AssemblyReference.cache
+D:\FF14\obj\Debug\net6.0-windows\FF14.FF14MW.resources
+D:\FF14\obj\Debug\net6.0-windows\FF14.Glad_1_10.resources
+D:\FF14\obj\Debug\net6.0-windows\FF14.Properties.Resources.resources
+D:\FF14\obj\Debug\net6.0-windows\FF14.Ultimum.resources
+D:\FF14\obj\Debug\net6.0-windows\FF14.csproj.GenerateResource.cache
+D:\FF14\obj\Debug\net6.0-windows\FF14.GeneratedMSBuildEditorConfig.editorconfig
+D:\FF14\obj\Debug\net6.0-windows\FF14.AssemblyInfoInputs.cache
+D:\FF14\obj\Debug\net6.0-windows\FF14.AssemblyInfo.cs
+D:\FF14\obj\Debug\net6.0-windows\FF14.csproj.CoreCompileInputs.cache

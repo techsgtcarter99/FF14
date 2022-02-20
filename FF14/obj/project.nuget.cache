@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LkyX/53YOQO+7WXV1E9hvbmXPdf1uKyMW8CrZ/Cu07PbyTS6gF+gXi0eWqSufgO3WyTlTM5XvI9PfCR1GER3DA==",
+  "success": true,
+  "projectFilePath": "D:\\FF14\\FF14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Holcomb Family\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
